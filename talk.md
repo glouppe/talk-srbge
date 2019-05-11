@@ -30,9 +30,9 @@ Ma nuit aux urgences...
     - salle d'attente 1, radio thorax
     - salle d'attente 2, box urgence, parmi des urgences bondées
     - attente
-    - premier examen par un interne, check up rapide et succint
+    - premier examen par un interne, examen rapide et succint
     - attente
-    - second examen par le médecin en charge?, check up rapide et succinct également
+    - second examen par le médecin en charge?, examen rapide et succinct également
     - attente
     - attente
     - attente
